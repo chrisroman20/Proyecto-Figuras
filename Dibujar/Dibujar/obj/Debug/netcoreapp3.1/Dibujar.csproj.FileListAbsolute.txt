@@ -1,0 +1,15 @@
+C:\Users\personal\source\repos\Dibujar\Dibujar\bin\Debug\netcoreapp3.1\Dibujar.exe
+C:\Users\personal\source\repos\Dibujar\Dibujar\bin\Debug\netcoreapp3.1\Dibujar.deps.json
+C:\Users\personal\source\repos\Dibujar\Dibujar\bin\Debug\netcoreapp3.1\Dibujar.runtimeconfig.json
+C:\Users\personal\source\repos\Dibujar\Dibujar\bin\Debug\netcoreapp3.1\Dibujar.runtimeconfig.dev.json
+C:\Users\personal\source\repos\Dibujar\Dibujar\bin\Debug\netcoreapp3.1\Dibujar.dll
+C:\Users\personal\source\repos\Dibujar\Dibujar\bin\Debug\netcoreapp3.1\Dibujar.pdb
+C:\Users\personal\source\repos\Dibujar\Dibujar\obj\Debug\netcoreapp3.1\Dibujar.csprojAssemblyReference.cache
+C:\Users\personal\source\repos\Dibujar\Dibujar\obj\Debug\netcoreapp3.1\Dibujar.csproj.GenerateResource.cache
+C:\Users\personal\source\repos\Dibujar\Dibujar\obj\Debug\netcoreapp3.1\Dibujar.AssemblyInfoInputs.cache
+C:\Users\personal\source\repos\Dibujar\Dibujar\obj\Debug\netcoreapp3.1\Dibujar.AssemblyInfo.cs
+C:\Users\personal\source\repos\Dibujar\Dibujar\obj\Debug\netcoreapp3.1\Dibujar.csproj.CoreCompileInputs.cache
+C:\Users\personal\source\repos\Dibujar\Dibujar\obj\Debug\netcoreapp3.1\Dibujar.dll
+C:\Users\personal\source\repos\Dibujar\Dibujar\obj\Debug\netcoreapp3.1\Dibujar.pdb
+C:\Users\personal\source\repos\Dibujar\Dibujar\obj\Debug\netcoreapp3.1\Dibujar.genruntimeconfig.cache
+C:\Users\personal\source\repos\Dibujar\Dibujar\obj\Debug\netcoreapp3.1\Dibujar.Form1.resources
